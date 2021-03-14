@@ -8,4 +8,6 @@ path, device type, size GB, avalible MB, file system type, mountpoint<br>
 For example:<br>
 /dev/sda1 part 0.512G 511M vfat /boot/efi<br>
 To run the script use:<br> 
-python dinfo.py [inputfile name]</p>
+python dinfo.py "inputfile name"<br>
+Inputfile name is required.<br>
+</p>
